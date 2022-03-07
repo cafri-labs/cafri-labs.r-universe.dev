@@ -1,0 +1,10 @@
+[
+    {
+        "package": "unifir",
+        "url": "https://github.com/mikemahoney218/unifir"
+    },
+    {
+        "package": "terrainr",
+        "url": "https://github.com/ropensci/terrainr/"
+    }
+]
