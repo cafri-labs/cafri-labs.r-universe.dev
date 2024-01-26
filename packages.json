@@ -6,5 +6,13 @@
     {
         "package": "terrainr",
         "url": "https://github.com/ropensci/terrainr/"
+    },
+    {
+        "package": "waywiser",
+        "url": "https://github.com/ropensci/waywiser/"
+    },
+    {
+        "package": "rsi",
+        "url": "https://github.com/Permian-Global-Research/rsi/"
     }
 ]
